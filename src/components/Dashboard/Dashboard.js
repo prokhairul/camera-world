@@ -11,7 +11,7 @@ const Dashboard = () => {
     return (
         <div className='charts-main'>
             <div className='compo-chart'>
-                <h2>BarChart</h2>
+                <h2>Investment vs Sell vs Revenue</h2>
             </div>
 
             <div className='chart-data' >
@@ -29,7 +29,7 @@ const Dashboard = () => {
                 </div>
 
                 <div className='compo-chart'>
-                    <h2> ComposedChart </h2>
+                    <h2> Investment vs Revenue vs Sell </h2>
                 </div>
 
                 <div className='chart-2'>

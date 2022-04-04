@@ -1,0 +1,12 @@
+.container {
+    max-width: 1070px !important;
+}
+
+.question-title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 50px;
+}
+
+.accord-body {
+    text-align: left !important;
+}
