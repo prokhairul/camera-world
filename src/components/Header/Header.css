@@ -1,0 +1,25 @@
+.nav-bar {
+    margin: 0px 0px 50px 0px;
+    background-color: #483d8b;
+    padding: 20px;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    color: white;
+    padding: 7px 10px 7px 10px;
+    margin: 10px;
+    border-end-end-radius: 5px;
+    border-top-left-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.nav-bar a:hover {
+    color: white;
+    background-color: #1d2951;
+    transition-delay: 100ms;
+    -webkit-transition: all .25s linear;
+    transition: color .25s linear;
+    opacity: 100%;
+}
