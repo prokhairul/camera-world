@@ -16,6 +16,10 @@ const Home = () => {
                 <div>
                     <h2>Welcome To Camera World </h2>
                     <p> <strong>Hello Photographer's,</strong> The Fujifilm X-T10 is a DSLR-styled mirrorless camera announced by Fujifilm on May 18, 2015.  It is a smaller, lighter and more affordable alternative to the Fujifilm X-T1 with which it shares a sensor and processor. Check out our honorable buyer's review.  </p>
+                    <div className='main-btn'>
+                        <Link to="/allreviews"> <button className='btn'>Check Reviews</button> </Link>
+                    </div>
+
                 </div>
                 <div>
                     <img src="https://khairulislam.com/wp-content/uploads/2022/04/Camera-Photo.png" alt="" />
@@ -36,8 +40,8 @@ const Home = () => {
                 }
             </div>
 
-            <div className='review-head'>
-                <Link to="/allreviews"> <h2>See All Review </h2> </Link>
+            <div className='main-btn-2'>
+                <Link to="/allreviews"> <button className='btn'> See All Review</button> </Link>
             </div>
         </div>
     );
