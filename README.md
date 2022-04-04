@@ -1,8 +1,8 @@
 # Welcome To Camera World 
 
-Code Link:  [Create React App](https://github.com/programming-hero-web-course-4/product-analysis-website-vakhairulislam).
+Code Link:  [Click Here](https://github.com/programming-hero-web-course-4/product-analysis-website-vakhairulislam).
 
-Live Link:  [Create React App](https://github.com/facebook/create-react-app).
+Live Link:  [Click Here](https://github.com/facebook/create-react-app).
 
 ## Important Content
 
