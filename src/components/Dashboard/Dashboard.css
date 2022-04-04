@@ -1,0 +1,24 @@
+.charts-main {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.chart-data {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.compo-chart h2 {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.chart-1 {
+    margin-bottom: 40px;
+}
+
+.chart-2 {
+    margin-top: 40px;
+}

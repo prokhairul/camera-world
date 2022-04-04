@@ -1,31 +1,25 @@
-import { faDove } from '@fortawesome/free-solid-svg-icons';
+
 import React from 'react';
-import Map from '../AllReviewMap/Map';
 import useReviews from '../hooks/useReviews';
+import ShowReview from './ShowReview';
 
 const AllReviews = (props) => {
-
     const [reviews] = useReviews();
-
     return (
-
         <div>
-
             <div className='review-head'>
-                <h2>My Happy Clients</h2>
+                <h2>All Reviews</h2>
             </div>
 
             <div className='reviews-grid'>
                 {
-                    reviews.map(review => <Map
+                    reviews.map(review => <ShowReview
                         review={review}
-                    ></Map>)
+                    ></ShowReview>)
 
                 }
             </div>
-
         </div>
-
     );
 };
 

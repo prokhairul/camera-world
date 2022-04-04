@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Map = (props) => {
+const ShowReview = (props) => {
 
     const { name, img, rating, comment } = props.review;
 
@@ -14,4 +14,4 @@ const Map = (props) => {
     );
 };
 
-export default Map;
+export default ShowReview;
