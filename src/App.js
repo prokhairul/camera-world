@@ -14,19 +14,17 @@ function App() {
 
     <div className="App">
 
-      <div className='head-design'> <Header></Header> </div>
-      <div>
-        <Routes>
-          <Route path='/' element={<Home></Home>}></Route>
-          <Route path='/home' element={<Home></Home>}></Route>
-          <Route path='/allreviews' element={<AllReviews></AllReviews>}></Route>
-          <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
-          <Route path='/blogs' element={<Blogs></Blogs>}></Route>
-          <Route path='/about' element={<About></About>}></Route>
-          <Route path='*' element={<Home></Home>}> </Route>
-        </Routes>
-      </div>
+      <Header></Header>
 
+      <Routes>
+        <Route path='/' element={<Home></Home>}></Route>
+        <Route path='/home' element={<Home></Home>}></Route>
+        <Route path='/allreviews' element={<AllReviews></AllReviews>}></Route>
+        <Route path='/dashboard' element={<Dashboard></Dashboard>}></Route>
+        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
+        <Route path='/about' element={<About></About>}></Route>
+        <Route path='*' element={<Home></Home>}> </Route>
+      </Routes>
     </div>
   );
 }

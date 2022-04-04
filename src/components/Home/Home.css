@@ -1,0 +1,17 @@
+.reviews-grid {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.review-head h2 {
+    max-width: 1045px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    padding: 10px;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}

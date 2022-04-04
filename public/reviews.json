@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Suzie Vue",
+        "comment": "Always does amazing work! I've hired for three projects and I will continue to hire his services.",
+        "img": "https://i1.wp.com/khairulislam.com/wp-content/uploads/2021/03/Ajably.jpg?w=626&ssl=1",
+        "rating": 5
+    },
+    {
+        "name": "Mi Rony",
+        "comment": "Thanks again for all of your work, like always high quality, good communications and a pleasure to work with you.",
+        "img": "https://i2.wp.com/khairulislam.com/wp-content/uploads/2021/03/MI-Rony.jpg?w=400&ssl=1",
+        "rating": 5
+    },
+    {
+        "name": "Chevy Danniel",
+        "comment": "Easy communication, carried out the job as specified. Fast turnaround. Will definitely hire again.",
+        "img": "https://i0.wp.com/khairulislam.com/wp-content/uploads/2021/03/Drew.jpg?w=626&ssl=1",
+        "rating": 4
+    },
+    {
+        "name": "Suzanne",
+        "comment": "Thank you everything was done exactly as requested. I am very pleased. This saves me so much time.",
+        "img": "https://i0.wp.com/khairulislam.com/wp-content/uploads/2021/03/Chevy.jpg?w=626&ssl=1",
+        "rating": 5
+    },
+    {
+        "name": "Thalapathy Vijay",
+        "comment": "Excellent work on time and on budget. A great virtual assistant. I will hire you again and highly recommend you.",
+        "img": "https://i0.wp.com/khairulislam.com/wp-content/uploads/2021/03/BIjoy-Khan.jpg?w=400&ssl=1",
+        "rating": 3
+    },
+    {
+        "name": "Nirob Hasan",
+        "comment": "Product was awesome. Highly Recommended",
+        "img": "https://i1.wp.com/khairulislam.com/wp-content/uploads/2021/03/Riyad-Miji.png?w=400&ssl=1",
+        "rating": 5
+    }
+]
