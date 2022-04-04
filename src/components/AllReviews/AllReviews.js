@@ -14,6 +14,7 @@ const AllReviews = (props) => {
             <div className='reviews-grid'>
                 {
                     reviews.map(review => <ShowReview
+                        key={review.id}
                         review={review}
                     ></ShowReview>)
 

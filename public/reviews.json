@@ -1,35 +1,41 @@
 [
     {
+        "id": 1,
         "name": "Suzie Vue",
         "comment": "Love this little powerhouse so much! Love the ability to shoot in raw and interchange lenses! ",
         "img": "https://i1.wp.com/khairulislam.com/wp-content/uploads/2021/03/Ajably.jpg?w=626&ssl=1",
         "rating": 5
     },
     {
+        "id": 2,
         "name": "Mi Rony",
         "comment": "A great street camera. I've shot thousands of pictures and it's great. Love this camera a lot!",
         "img": "https://www.pngitem.com/pimgs/m/4-42408_vector-art-design-men-fashion-vector-art-illustration.png",
         "rating": 5
     },
     {
+        "id": 3,
         "name": "Chevy Danniel",
         "comment": "Took great pictures. Until started having issue with its auto focus but otherwise I have used this camera before.",
         "img": "https://i0.wp.com/khairulislam.com/wp-content/uploads/2021/03/Drew.jpg?w=626&ssl=1",
         "rating": 4
     },
     {
+        "id": 4,
         "name": "Suzanne",
         "comment": "I don't have experience in photography but I was quickly able to get a hang of it. Easy to use and great quality.",
         "img": "https://i0.wp.com/khairulislam.com/wp-content/uploads/2021/03/Chevy.jpg?w=626&ssl=1",
         "rating": 5
     },
     {
+        "id": 5,
         "name": "Thalapathy Vijay",
         "comment": "Big fraud!!! This fujifilm xt10 product has faults on and off at the same time often ... Do not buy!",
         "img": "https://cdn2.vectorstock.com/i/thumb-large/81/51/portrait-of-a-young-man-vector-22368151.jpg",
         "rating": 2
     },
     {
+        "id": 6,
         "name": "Nirob Hasan",
         "comment": "Very sharp - fun little camera. Bit of learning curve in getting familiar with menu.",
         "img": "https://images.clipartlogo.com/files/istock/previews/1071/107186723-handsome-young-man-vector.jpg",

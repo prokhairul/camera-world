@@ -30,6 +30,7 @@ const Home = () => {
             <div className='reviews-grid'>
                 {
                     reviews.slice(0, 3).map(reviews => <Reviews
+                        key={reviews.id}
                         reviews={reviews}
                     ></Reviews>)
                 }
